@@ -1,6 +1,6 @@
 #Привет, это моя прога, сделаная по приколу, если хочешь - скачивай, но только по windows!
 from colorama import init, Fore, Back, Style
-import os, requests, smtplib as root
+import os, requests
 version = '0.02'
 def ver_check():
 	print('Проверка обновлений.....')
